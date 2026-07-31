@@ -1,0 +1,23 @@
+# Stenfors Transport
+
+> Muutto- ja kuljetusyritys, joka palvelee yksityisiä ja yrityksiä Suomessa. Toimipisteet Kokkolassa (pääkonttori), Vaasassa ja Helsingissä.
+
+## Palvelut
+- Muutot yksityisille
+- Yritysmuutot (toimisto- ja varastomuutot)
+- Tavarankuljetukset (kappale- ja lavatavara) koko Suomeen
+- Väliaikainen varastointi
+- Paluukyydit: edullisemmat kuljetukset kun auto palaisi muuten tyhjänä
+
+## Toimipisteet
+- Kokkola (pääkonttori)
+- Vaasa
+- Helsinki
+
+## Yhteystiedot
+- Puhelin: +358 40 123 4567
+- Sähköposti: info@stenforstransport.fi
+- Aukiolo: ma–pe 8–17
+
+## Sivut
+- [Etusivu](https://stenforstransport.github.io/Stenfors-Transport/): palvelut, prosessi, toimipisteet, paluukyydit, UKK, yhteystiedot ja tarjouspyyntölomake
