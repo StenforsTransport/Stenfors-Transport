@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://stenforstransport.github.io/stenfors-transport/sitemap.xml
